@@ -1,0 +1,6 @@
+# Copia este fichero como terraform.tfvars y rellénalo
+prefijo    = "nombre-apellido"
+usar_floci = false # pon true si trabajas con Floci en local
+
+# Solo con Floci: una AMI de las que aparecen en Floci UI (Compute)
+# ami_id = "ami-xxxxxxxx"

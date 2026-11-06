@@ -1,0 +1,2 @@
+# Copia este fichero como terraform.tfvars y rellénalo (reto solo para AWS)
+prefijo = "nombre-apellido"
